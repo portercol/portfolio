@@ -20,19 +20,19 @@ export default function PortCards() {
           <ul className='cards__items'>
             <CardItem
               src={sureVote}
-              text='Secure Web & Mobile-friendly voting made with facial recognition and 2FA.'
+              text='Secure web and mobile-friendly voting made with facial recognition and 2FA.'
               label='Sure Vote'
               path='https://young-journey-30565.herokuapp.com/'
             />
             <CardItem
               src={emote}
-              text='Analyze images, return numerical data, identify socially-perceived emotions.'
+              text='Analyze images, return numerical data and identify socially-perceived emotions.'
               label='Emote'
               path='https://intense-chamber-80785.herokuapp.com/'
             />
             <CardItem
               src={empDirect}
-              text='A React app to search and filter a large employee directory with different criteria.'
+              text='Using different criteria you can search and filter through an employee directory.'
               label='Employee Directory'
               path='https://calm-crag-68916.herokuapp.com/'
             />
@@ -40,22 +40,22 @@ export default function PortCards() {
           <ul className='cards__items'>
             <CardItem
               src={budgetTrack}
-              text='A progressive web app that tracks financial transactions online & offline.'
+              text='A progressive web app that tracks financial transactions online and offline.'
               label='Budget Tracker'
               path='https://salty-escarpment-91898.herokuapp.com/'
             />
             <CardItem
               src={workoutTrack}
-              text='Create and track daily exercise workouts & view your history through a dashboard.'
+              text='Create and track daily exercise workouts and view your history through a dashboard.'
               label='Workout Tracker'
               path='https://fierce-hamlet-55434.herokuapp.com/'
             />
-            <CardItem
+            {/* <CardItem
               src={burger}
-              text='Create, Save and Devour Burgers. See a list of both created & devoured burgers.'
+              text='Create, save and devour burgers. See a list of both created & devoured burgers.'
               label='Burger Tyme'
               path='https://glacial-caverns-34503.herokuapp.com/'
-            />
+            /> */}
             </ul>
             <ul className='cards__items'>
             <CardItem
