@@ -1,32 +1,32 @@
 import React from 'react';
 import Tooltip from '@material-ui/core/Tooltip';
 // import { Link } from 'react-router-dom';
-import Button from './Button';
+// import Button from './Button';
 import './Footer.css';
 
 function Footer() {
   return (
     <div className='footer-container'>
-      <section className='footer-subscription'>
+      {/* <section className='footer-subscription'>
         <div className='input-areas'>
           <form>
             <input
               type='email'
               name='name'
-              placeholder='Email'
+              placeholder='Message'
               className='footer-input'
             />
             <Button buttonStyle='btn--outline'>Contact Me</Button>
           </form>
         </div>
-      </section>
-      <div className='footer-links'>
-      </div>
+      </section> */}
+      {/* <div className='footer-links'>
+      </div> */}
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <div className='social-logo'>
-              <small className='website-rights'>CP 2021</small>
+              <small className='website-rights'>cporter.dev@gmail.com</small>
             </div>
           </div>
           <div className='social-icons'>
