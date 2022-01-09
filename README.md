@@ -10,7 +10,7 @@ Link to deployed site: [React Portfolio](http://cporter.herokuapp.com/)
 ## Description
 My dev portfolio built with React.js, MUI and a new CSS framework. My portfolio features new user-friendly project cards. You can find my social media accounts, github, linkedIn and resume info in the footer of the webpage.
 
-<hr>
+<!-- <hr> -->
 
 <!-- ## App Images -->
 <!-- <img width="512" alt="aboutMeReadme" src="https://user-images.githubusercontent.com/65620655/133693151-e1cf9318-c906-42f0-80ca-a162382971ee.png"> -->
