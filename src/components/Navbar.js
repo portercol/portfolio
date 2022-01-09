@@ -29,7 +29,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            CP
+            cp
             {/* <i class='fas fa-meh-blank' /> */}
           </Link>
           <div className='menu-icon' onClick={handleClick}>
@@ -42,7 +42,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Home
+                home
               </Link>
             </li>
             <li className='nav-item'>
@@ -51,7 +51,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Portfolio
+                my work
               </Link>
             </li>
             {/* <li className='nav-item'>

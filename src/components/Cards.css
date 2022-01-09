@@ -16,6 +16,10 @@ h1 {
   margin: 0 auto;
 }
 
+.cards__label {
+  color: #252e48;
+}
+
 .cards__wrapper {
   position: relative;
   margin: 50px 0 45px;
@@ -59,14 +63,14 @@ h1 {
 .cards__item__pic-wrap::after {
   content: attr(data-category);
   position: absolute;
-  bottom: 0;
+  top: 0;
   /* margin-left: 10px; */
   padding: 6px 8px;
   max-width: calc((100%) - 60px);
   font-size: 16px;
   font-weight: 600;
   color: #fff;
-  background-color: #1f98f4;
+  background-color: #242424;
   box-sizing: border-box;
 }
 

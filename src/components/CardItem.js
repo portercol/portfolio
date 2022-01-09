@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from './Button';
+// import Button from '@mui/material/Button';
 
 function CardItem(props) {
   return (
@@ -19,9 +19,11 @@ function CardItem(props) {
           </figure>
           <div className='cards__item__info'>
             <h5 className='cards__item__text'>{props.text}</h5>
-            <Button buttonStyle='btn--primary'>view repo</Button>
-            {/* <Button buttonStyle='btn--primary'>live site</Button> */}
           </div>
+          {/* <Button style={{ backgroundColor: '#242424' }} variant="contained" size="medium">
+            view repo
+            <a href='https://github.com/portercol/sure-vote'></a>
+          </Button> */}
         </a>
       </li>
     </>

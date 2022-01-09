@@ -6,7 +6,7 @@ function MainSection() {
   return (
     <div className='main-container'>
       <h1>collin porter</h1>
-      <h2>tech | family | outdoors</h2>
+      <h2>family | tech | outdoors</h2>
     </div>
   );
 }

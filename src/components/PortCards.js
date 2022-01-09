@@ -32,7 +32,7 @@ export default function PortCards() {
             />
             <CardItem
               src={empDirect}
-              text='A React app to search and filter a large employee directory.'
+              text='A React app to search and filter a large employee directory with different criteria.'
               label='Employee Directory'
               path='https://calm-crag-68916.herokuapp.com/'
             />
@@ -40,13 +40,13 @@ export default function PortCards() {
           <ul className='cards__items'>
             <CardItem
               src={budgetTrack}
-              text='A Progressive Web App that tracks transactions even when offline.'
+              text='A progressive web app that tracks financial transactions online & offline.'
               label='Budget Tracker'
               path='https://salty-escarpment-91898.herokuapp.com/'
             />
             <CardItem
               src={workoutTrack}
-              text='Create and track daily exercise and cardio workouts.'
+              text='Create and track daily exercise workouts & view your history through a dashboard.'
               label='Workout Tracker'
               path='https://fierce-hamlet-55434.herokuapp.com/'
             />
@@ -60,7 +60,7 @@ export default function PortCards() {
             <ul className='cards__items'>
             <CardItem
               src={scheduler}
-              text='Keep track of your schedule by hour & by day.'
+              text='Create, save and delete appointments with the hourly workday scheduler.'
               label='Workday Scheduler'
               path='https://portercol.github.io/Work-Day-Scheduler/'
             />
@@ -72,7 +72,7 @@ export default function PortCards() {
             />
             <CardItem
               src={password}
-              text='Generate a random password with different criteria.'
+              text='Generate a random password with specific criteria depending on your needs.'
               label='Password Generator'
               path='https://portercol.github.io/Password-Generator/'
             />

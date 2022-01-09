@@ -17,7 +17,8 @@ function Cards() {
               text='Secure Web & Mobile-friendly voting made with facial recognition and 2FA.'
               label='Sure Vote'
               path='https://young-journey-30565.herokuapp.com/'
-            />
+            >
+            </CardItem>
             <CardItem
               src={emote}
               text='Analyze images, return numerical data, identify socially-perceived emotions.'
@@ -26,7 +27,7 @@ function Cards() {
             />
             <CardItem
               src={empDirect}
-              text='A React app to search and filter a large employee directory.'
+              text='A React app to search and filter a large employee directory with different criteria.'
               label='Employee Directory'
               path='https://calm-crag-68916.herokuapp.com/'
             />
