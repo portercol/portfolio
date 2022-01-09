@@ -18,7 +18,9 @@ function CardItem(props) {
             />
           </figure>
           <div className='cards__item__info'>
-            <h5 className='cards__item__text'>{props.text}</h5>
+            <h5 className='cards__item__text'>{props.description}</h5>
+            <br/>
+            <h5 className='cards__item__text'>{props.tech}</h5>
           </div>
           {/* <Button style={{ backgroundColor: '#242424' }} variant="contained" size="medium">
             view repo

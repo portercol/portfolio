@@ -14,20 +14,22 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src={sureVote}
-              text='Secure Web & Mobile-friendly voting made with facial recognition and 2FA.'
+              description='Secure web and mobile-friendly voting made with facial recognition and 2FA.'
+              tech='tech: React.js | Express.js | Passport.js | Nodemailer | Azure API'
               label='Sure Vote'
               path='https://young-journey-30565.herokuapp.com/'
-            >
-            </CardItem>
+            />
             <CardItem
               src={emote}
-              text='Analyze images, return numerical data, identify socially-perceived emotions.'
+              description='Analyze images, return numerical data and identify socially-perceived emotions.'
+              tech='tech: JavaScript | Express.js | Passport.js | Imgur API | MySQL'
               label='Emote'
               path='https://intense-chamber-80785.herokuapp.com/'
             />
             <CardItem
               src={empDirect}
-              text='A React app to search and filter a large employee directory with different criteria.'
+              description='Using different criteria you can search and filter through an employee directory.'
+              tech='tech: React.js | Node.js | React-Bootstrap | MDB React'
               label='Employee Directory'
               path='https://calm-crag-68916.herokuapp.com/'
             />
