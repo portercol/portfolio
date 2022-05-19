@@ -2,13 +2,15 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Link to deployed site: [React Portfolio](http://cporter.herokuapp.com/)
-* Please give Heroku time to load the site
+Link to deployed site: [React Portfolio](https://collinporter.dev)
+
+- Please give Heroku time to load the site
 
 <hr>
 
 ## Description
-My dev portfolio built with React.js, MUI and a new CSS framework. My portfolio features new user-friendly project cards. You can find my social media accounts, github, linkedIn and resume info in the footer of the webpage.
+
+My dev portfolio built with React.js and MUI. My portfolio features new user-friendly project cards. You can find my social media accounts, github, linkedIn and resume info in the footer of the webpage.
 
 <!-- <hr> -->
 
@@ -28,4 +30,5 @@ My dev portfolio built with React.js, MUI and a new CSS framework. My portfolio 
 <hr>
 
 ## Tech-Stack
+
 React.js | javascript | CSS | MUI
