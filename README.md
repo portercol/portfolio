@@ -4,8 +4,6 @@
 
 Link to deployed site: [React Portfolio](https://collinporter.dev)
 
-- Please give Heroku time to load the site
-
 <hr>
 
 ## Description
