@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d476ef.css",
+    "main.js": "/static/js/main.301a323b.js",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/sure-vote.png": "/static/media/sure-vote.5b6bc40486be49774210.png",
+    "static/media/img-home.jpg": "/static/media/img-home.c034239ee9a63564602b.jpg",
+    "static/media/img-9.jpg": "/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/emote.png": "/static/media/emote.63e9ca85afc3c81ea048.png",
+    "static/media/employee-directory.png": "/static/media/employee-directory.53d8c928c4461fcc3be4.png",
+    "static/media/workout-tracker.png": "/static/media/workout-tracker.5f21b8fff120816be833.png",
+    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.fe09b18bb0b54b596c11.png",
+    "static/media/budget-tracker.png": "/static/media/budget-tracker.72335cf0d7bea83e2316.png",
+    "static/media/password-generator.png": "/static/media/password-generator.2f1ba0c8284781d1eda9.png",
+    "static/media/workday-scheduler.png": "/static/media/workday-scheduler.73822ea4f4570a3b3df2.png",
+    "index.html": "/index.html",
+    "main.31d476ef.css.map": "/static/css/main.31d476ef.css.map",
+    "main.301a323b.js.map": "/static/js/main.301a323b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d476ef.css",
+    "static/js/main.301a323b.js"
+  ]
+}
